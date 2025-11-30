@@ -1,5 +1,5 @@
-⚠ Disclaimer
+⚠️ Disclaimer
 
-Este proyecto es únicamente para fines educativos y de aprendizaje en ingeniería inversa.
-No me hago responsable del uso indebido, ilegal o malintencionado de estas herramientas.
-Cada usuario es responsable de cumplir las leyes de su país.
+Estas herramientas fueron desarrolladas únicamente con fines educativos y de aprendizaje en el campo del Reverse Engineering.  
+No deben ser utilizadas para actividades ilegales, intrusivas o que violen los términos de servicio de software de terceros.  
+El autor no se hace responsable del uso indebido de este software.
